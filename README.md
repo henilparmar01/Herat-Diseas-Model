@@ -221,7 +221,7 @@ SVM                    0.842391    0.921569     0.866359  0.866359    0.916667
 Random Forest          0.847826    0.849057     0.882353  0.865385    0.919955
 XGBoost                0.858696    0.845455     0.911765  0.877358    0.903874
 
-Best Model: XGBoost
+Best Model: Random Forest
 ```
 
 *(Results may vary depending on dataset version and random seed.)*
